@@ -1,0 +1,6 @@
+{
+  "widget.name": "VizaAssist",
+  "widget.description": "Статус проверки документов и запуск локального приложения VizaAssist",
+  "widget.short_description": "VizaAssist",
+  "settings.backend_url.name": "Локальный backend URL"
+}
