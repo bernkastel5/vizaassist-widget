@@ -3,7 +3,7 @@
     "name": "widget.name",
     "description": "widget.description",
     "short_description": "widget.short_description",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "interface_version": 2,
     "init_once": false,
     "locale": [
@@ -11,11 +11,14 @@
     ],
     "installation": true
   },
-"locations": [
-    "lcard-1",
-    "lcard-0",
-    "ccard-1"
+  "locations": [
+    "lcard",
+    "ccard",
+    "comcard"
   ],
+  "images": {
+    "logo_main": "images/logo_main.png"
+  },
   "settings": {
     "backend_url": {
       "name": "settings.backend_url.name",
